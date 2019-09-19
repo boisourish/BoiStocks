@@ -1,0 +1,5 @@
+users.db
+
+users (id, name, email, hash, money)
+stocks(id, code, name, value)
+relation (id, UserId, StockId, amount)
